@@ -2,5 +2,7 @@
   "name": "ImageUpload",
   "app_id": "6cebed80",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
